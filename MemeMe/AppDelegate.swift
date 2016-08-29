@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  MemeMe 2.0
+//  MemeMe
 //
 //  Created by Jacob Foster Davis on 8/22/16.
 //  Copyright © 2016 Zero Mu, LLC. All rights reserved.
